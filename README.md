@@ -76,6 +76,10 @@ skin-lesion-segmentation/
     └── loss_curve.png
 ```
 
+## Notebook
+
+Full training notebook with outputs: [Kaggle Notebook](https://www.kaggle.com/code/ameykhodke/skin-lesion-segmentation)
+
 ## Future Work
 
 - Multi-scale / patch-based training to preserve small-lesion signal
